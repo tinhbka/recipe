@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<catalog>
+    <recipe>
+        <id>1</id>
+        <title>Breads</title>
+    </recipe>
+    <recipe>
+        <id>2</id>
+        <title>Breakfast</title>
+    </recipe>
+    <recipe>
+        <id>3</id>
+        <title>Desserts</title>
+    </recipe>
+    <recipe>
+        <id>4</id>
+        <title>Soups</title>
+    </recipe>
+    <recipe>
+        <id>5</id>
+        <title>Salad</title>
+    </recipe>
+    <recipe>
+        <id>6</id>
+        <title>Drinks</title>
+    </recipe>
+    <recipe>
+        <id>7</id>
+        <title>Pizza</title>
+    </recipe>
+    <recipe>
+        <id>8</id>
+        <title>Snacks</title>
+    </recipe>
+</catalog>
